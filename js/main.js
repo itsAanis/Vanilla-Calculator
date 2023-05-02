@@ -93,6 +93,6 @@ const calculator = {
 outputText(text) {
     document.querySelector('.calculator-screen').value = text
 // output display text to screen
-  // console.log(eval(equation)) 
+
 }
 };
